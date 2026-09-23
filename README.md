@@ -37,3 +37,15 @@ Standard analysis on Hong Kong real estate indices skew performance metrics by t
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
+3. Run the master script to process the CSVs, generate the indices, and execute the forecast:
+   ```bash
+   Python hk_property_arima_forecasting.py
+
+## 👤 Author
+
+**Chi Leung Mak (Ron), CFA, CAIA**  
+*MSc Financial Engineering Candidate | Ex-Head of Business Analysis*  
+
+Bridging alternative investment with quantitative financial modelling. Drawing on prior experience as a real estate research analyst and head of business analysis in tech consulting to build rigorous, data-driven analytical tools. 
+
+[LinkedIn](https://linkedin.com/in/clmak) • [GitHub](https://github.com/chileungmak)

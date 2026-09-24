@@ -38,6 +38,7 @@ To run the model locally, clone this repository and install the dependencies:
 ```bash
 pip install -r requirements.txt
 streamlit run TRI_ARIMA_app.py
+```
 
 ## 👤 Author
 

@@ -1,5 +1,8 @@
 pandas
 numpy<2.0.0
-matplotlib
 statsmodels
-pmdarima
+xgboost
+scikit-learn
+plotly
+streamlit
+pytest
